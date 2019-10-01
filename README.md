@@ -1,2 +1,2 @@
-# Elixirr
-Website for Elixirr application 
+Elixirr
+
